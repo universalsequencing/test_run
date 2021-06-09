@@ -1,4 +1,4 @@
-# test_run
+# Demo Run for TELL-Seq Data Analysis Pipelines 
 
 ## Overview
 
@@ -11,6 +11,12 @@ After download or clone this repo, the first step is to recover the bcl run dire
 ```
 cat test_run.tar.gza* > test_run.tar.gz
 ```
+
+```
+tar xzvf test_run.tar.gz
+```
+This will unpack into the bcl raw data diretory 210506_M06507_0113_000000000-DC6N8.
+
 
 ## Run Scripts
 
