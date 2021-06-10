@@ -15,11 +15,11 @@ cat test_run.tar.gza* > test_run.tar.gz
 ```
 tar xzvf test_run.tar.gz
 ```
-This will unpack into the bcl raw data diretory 210506_M06507_0113_000000000-DC6N8.
+This will unpack into the bcl raw data directory ```210506_M06507_0113_000000000-DC6N8/```.
 
 
 ## Run Scripts
 
-The scripts in the run_tellread, run_tellsort and run_tellink directories xxiare example test scripts to run TELL-Seq data analysis pipelines.
+The scripts in the run_tellread, run_tellsort and run_tellink directories are example test scripts to run TELL-Seq data analysis pipelines.
 
 .
