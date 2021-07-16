@@ -9,11 +9,11 @@ This repo is a demo for running TELL-Seq data analysis pipelines. It includes ex
 After download or clone this repo, the first step is to recover the bcl run directory. 
 
 ```
-cat test_run.tar.gza* > test_run.tar.gz
+cat test_data.tar.gza* > test_data.tar.gz
 ```
 
 ```
-tar xzvf test_run.tar.gz
+tar xzvf test_data.tar.gz
 ```
 This will unpack into the bcl raw data directory ```210506_M06507_0113_000000000-DC6N8/```.
 
